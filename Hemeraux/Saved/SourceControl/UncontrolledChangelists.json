@@ -1,0 +1,16 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/lelel/OneDrive/Documentos/GitHub/ALD_HemerauxLayOut/Hemeraux/Content/HorrorEngine/Maps/Overview.umap",
+				"C:/Users/lelel/OneDrive/Documentos/GitHub/ALD_HemerauxLayOut/Hemeraux/Content/BlockOut_LevelDesign/BlockOut_1.umap",
+				"C:/Users/lelel/OneDrive/Documentos/GitHub/ALD_HemerauxLayOut/Hemeraux/Content/BlockOut_LevelDesign/Map.uasset",
+				"C:/Users/lelel/OneDrive/Documentos/GitHub/ALD_HemerauxLayOut/Hemeraux/Content/BlockOut_LevelDesign/1level.uasset",
+				"C:/Users/lelel/OneDrive/Documentos/GitHub/ALD_HemerauxLayOut/Hemeraux/Content/BlockOut_LevelDesign/1level_Mat.uasset"
+			]
+		}
+	]
+}
