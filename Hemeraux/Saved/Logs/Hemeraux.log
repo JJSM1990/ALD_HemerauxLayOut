@@ -3147,3 +3147,251 @@ Otherwise assets can be missing from cooked builds. Continue with rename?
 [2024.05.02-21.45.14:039][576]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
 [2024.05.02-21.45.14:039][576]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
 [2024.05.02-21.45.14:045][576]LogContentBrowser: End creating deferred item NewWorld
+[2024.05.02-21.46.20:249][930]LogObjectTools: Deleting 1 worlds: /Game/BlockOut_LevelDesign/BlockOut_3.BlockOut_3
+[2024.05.02-21.46.20:249][930]LogObjectTools: Currently 5 active worlds: /Game/BlockOut_LevelDesign/Blockout_2.Blockout_2, /Engine/Transient.World_0, /Engine/Transient.World_1, /Engine/Transient.World_4, /Engine/Transient.World_5
+[2024.05.02-21.46.20:259][930]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2024.05.02-21.46.30:946][930]LogSlate: Window 'Delete Assets' being destroyed
+[2024.05.02-21.46.30:954][930]LogWorld: UWorld::CleanupWorld for BlockOut_3, bSessionEnded=true, bCleanupResources=true
+[2024.05.02-21.46.30:954][930]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.02-21.46.30:976][930]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2024.05.02-21.46.30:984][930]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2024.05.02-21.46.30:991][930]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2024.05.02-21.46.31:006][931]LogAutomationController: Ignoring very large delta of 10.76 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2024.05.02-21.46.35:352][138]LogSlate: Window 'New Level' being destroyed
+[2024.05.02-21.46.35:373][138]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=4
+[2024.05.02-21.46.35:381][138]LightingResults: New page: Lighting Build
+[2024.05.02-21.46.35:381][138]LoadErrors: New page: Loading map: Template_Default.umap
+[2024.05.02-21.46.35:436][138]LogWorld: UWorld::CleanupWorld for Blockout_2, bSessionEnded=true, bCleanupResources=true
+[2024.05.02-21.46.35:441][138]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.02-21.46.35:441][138]MapCheck: New page: Map Check
+[2024.05.02-21.46.35:441][138]LightingResults: New page: Lighting Build
+[2024.05.02-21.46.35:448][138]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.05.02-21.46.35:451][138]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2024.05.02-21.46.35:457][138]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled_2'.
+[2024.05.02-21.46.35:457][138]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.02-21.46.35:457][138]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.02-21.46.35:458][138]LogAIModule: Creating AISystem for world Untitled_2
+[2024.05.02-21.46.35:538][138]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.05.02-21.46.35:545][138]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2024.05.02-21.46.35:546][138]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.05.02-21.46.35:547][138]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.262ms to complete.
+[2024.05.02-21.46.49:355][666]Cmd: DELETE
+[2024.05.02-21.46.49:355][666]Cmd: ACTOR DELETE
+[2024.05.02-21.46.49:367][666]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.05.02-21.46.49:376][666]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2024.05.02-21.46.49:382][666]LogEditorActor: Deleted 1 Actors (0.026 secs)
+[2024.05.02-21.47.22:450][ 78]LogContentBrowser: Deferred new asset file creation: NewMaterial
+[2024.05.02-21.47.22:460][ 78]LogContentBrowser: Creating deferred item: NewMaterial
+[2024.05.02-21.47.22:473][ 79]LogContentBrowser: Renaming the item being created (Deferred Item: NewMaterial).
+[2024.05.02-21.47.28:921][931]LogContentBrowser: Attempting asset rename: NewMaterial -> 3level_mat
+[2024.05.02-21.47.28:921][931]LogContentBrowser: End creating deferred item NewMaterial
+[2024.05.02-21.47.30:427][ 82]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/BlockOut_LevelDesign/3level_mat.3level_mat
+[2024.05.02-21.47.30:467][ 82]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.02-21.47.30:467][ 82]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.02-21.47.30:738][ 82]MaterialEditorStats: Texture samplers: 0/16
+[2024.05.02-21.47.30:738][ 82]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.05.02-21.47.30:738][ 82]MaterialEditorStats: Shader Count: 0
+[2024.05.02-21.47.30:749][ 82]LogViewport: Scene viewport resized to 312x382, mode Windowed.
+[2024.05.02-21.47.32:991][215]LogShaderCompilers: Display: ================================================
+[2024.05.02-21.47.32:991][215]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.05.02-21.47.32:991][215]LogShaderCompilers: Display: Total job queries 542, among them cache hits 200 (36.90%)
+[2024.05.02-21.47.32:991][215]LogShaderCompilers: Display: Tracking 331 distinct input hashes that result in 206 distinct outputs (62.24%)
+[2024.05.02-21.47.32:991][215]LogShaderCompilers: Display: RAM used: 7.56 MiB of 819.20 MiB budget. Usage: 0.92%
+[2024.05.02-21.47.32:991][215]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.05.02-21.47.32:991][215]LogShaderCompilers: Display: Shaders Compiled: 82
+[2024.05.02-21.47.32:991][215]LogShaderCompilers: Display: Jobs assigned 85, completed 82 (96.47%)
+[2024.05.02-21.47.32:991][215]LogShaderCompilers: Display: Average time worker was idle: 1021.36 s
+[2024.05.02-21.47.32:991][215]LogShaderCompilers: Display: Time job spent in pending queue: average 0.21 s, longest 1.36 s
+[2024.05.02-21.47.32:991][215]LogShaderCompilers: Display: Job execution time: average 0.80 s, max 2.15 s
+[2024.05.02-21.47.32:991][215]LogShaderCompilers: Display: Job life time (pending + execution): average 1.01 s, max 2.21
+[2024.05.02-21.47.32:991][215]LogShaderCompilers: Display: Shader code size: average 43.434 KiB, min 29.613 KiB, max 72.703 KiB
+[2024.05.02-21.47.32:991][215]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 17.85 s
+[2024.05.02-21.47.32:991][215]LogShaderCompilers: Display: Jobs were issued in 85 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.05.02-21.47.32:991][215]LogShaderCompilers: Display: Average processing rate: 4.59 jobs/sec
+[2024.05.02-21.47.32:991][215]LogShaderCompilers: Display: Total thread time: 43.704 s
+[2024.05.02-21.47.32:991][215]LogShaderCompilers: Display: Total thread preprocess time: 5.577 s
+[2024.05.02-21.47.32:991][215]LogShaderCompilers: Display: Percentage time preprocessing: 12.76%
+[2024.05.02-21.47.32:991][215]LogShaderCompilers: Display: Effective parallelization: 2.45 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2024.05.02-21.47.32:991][215]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.05.02-21.47.32:991][215]LogShaderCompilers: Display:      TBasePassVSFPrecomputedVolumetricLightmapLightingPolicy (compiled    1 times, average 0.90 sec, max 0.90 sec, min 0.90 sec)
+[2024.05.02-21.47.32:991][215]LogShaderCompilers: Display:             TBasePassVSFSelfShadowedVolumetricLightmapPolicy (compiled    1 times, average 0.85 sec, max 0.85 sec, min 0.85 sec)
+[2024.05.02-21.47.32:991][215]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight (compiled    1 times, average 0.82 sec, max 0.82 sec, min 0.82 sec)
+[2024.05.02-21.47.32:991][215]LogShaderCompilers: Display:                TBasePassVSFCachedPointIndirectLightingPolicy (compiled    1 times, average 0.81 sec, max 0.81 sec, min 0.81 sec)
+[2024.05.02-21.47.32:991][215]LogShaderCompilers: Display:     TBasePassPSFSelfShadowedVolumetricLightmapPolicySkylight (compiled    1 times, average 0.80 sec, max 0.80 sec, min 0.80 sec)
+[2024.05.02-21.47.32:991][215]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.05.02-21.47.32:991][215]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 17.63% of total time (compiled   13 times, average 0.59 sec, max 0.84 sec, min 0.39 sec)
+[2024.05.02-21.47.32:991][215]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 16.80% of total time (compiled   13 times, average 0.56 sec, max 0.81 sec, min 0.44 sec)
+[2024.05.02-21.47.32:991][215]LogShaderCompilers: Display:                                                 FLumenCardVS - 11.86% of total time (compiled   10 times, average 0.52 sec, max 0.75 sec, min 0.40 sec)
+[2024.05.02-21.47.32:991][215]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 8.63% of total time (compiled   11 times, average 0.34 sec, max 0.90 sec, min 0.20 sec)
+[2024.05.02-21.47.32:991][215]LogShaderCompilers: Display:                                                FMeshDecalsVS - 3.94% of total time (compiled    4 times, average 0.43 sec, max 0.47 sec, min 0.37 sec)
+[2024.05.02-21.47.32:991][215]LogShaderCompilers: Display: ================================================
+[2024.05.02-21.47.33:200][224]MaterialEditorStats: Base pass vertex shader: 245 instructions
+[2024.05.02-21.47.33:201][224]MaterialEditorStats: Texture samplers: 0/16
+[2024.05.02-21.47.33:201][224]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.05.02-21.47.33:201][224]MaterialEditorStats: Shader Count: 3
+[2024.05.02-21.47.33:856][244]MaterialEditorStats: Base pass shader: 220 instructions
+[2024.05.02-21.47.33:856][244]MaterialEditorStats: Base pass vertex shader: 245 instructions
+[2024.05.02-21.47.33:856][244]MaterialEditorStats: Texture samplers: 2/16
+[2024.05.02-21.47.33:856][244]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.05.02-21.47.33:856][244]MaterialEditorStats: Shader Count: 4
+[2024.05.02-21.47.37:987][302]LogViewport: Scene viewport resized to 247x291, mode Windowed.
+[2024.05.02-21.48.10:927][ 18]LogSlate: Window '3level_mat' being destroyed
+[2024.05.02-21.48.10:937][ 18]LogSlate: Window '3level_mat' being destroyed
+[2024.05.02-21.48.10:953][ 18]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2024.05.02-21.48.10:954][ 18]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.02-21.48.44:299][539]LogInterchangeEngine: [Pending] Importing
+[2024.05.02-21.48.44:299][539]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/josej/Docum...dLevelDesign/Stealth/ThirdArea.png]
+[2024.05.02-21.48.44:351][540]LogInterchangeEngine: [Pending] Importing
+[2024.05.02-21.48.44:353][540]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2024.05.02-21.48.44:681][540]LogTexture: Display: Building textures: /Game/BlockOut_LevelDesign/ThirdArea.ThirdArea (BGRA8, 1036x931 x1x1x1) (Required Memory Estimate: 28.270741 MB), EncodeSpeed: Fast
+[2024.05.02-21.48.44:801][540]LogInterchangeEngine: [Success] Import Done
+[2024.05.02-21.48.44:843][541]LogInterchangeEngine: [Success] Import Done
+[2024.05.02-21.48.57:872][666]LogSlate: Window 'Content Browser' being destroyed
+[2024.05.02-21.48.57:886][666]LogSlate: Window 'Content Browser' being destroyed
+[2024.05.02-21.49.04:276][360]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Plane.Plane
+[2024.05.02-21.49.04:276][360]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Plane.Plane
+[2024.05.02-21.49.04:277][360]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Plane.Plane as actor: StaticMeshActor /Temp/Untitled_2.Untitled_2:PersistentLevel.StaticMeshActor_0
+[2024.05.02-21.49.04:277][360]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Plane.Plane as actor: StaticMeshActor /Temp/Untitled_2.Untitled_2:PersistentLevel.StaticMeshActor_0
+[2024.05.02-21.49.04:647][391]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Plane.Plane
+[2024.05.02-21.49.04:647][391]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Plane.Plane
+[2024.05.02-21.49.04:648][391]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Plane.Plane as actor: StaticMeshActor /Temp/Untitled_2.Untitled_2:PersistentLevel.StaticMeshActor_2
+[2024.05.02-21.49.04:649][391]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Plane.Plane as actor: StaticMeshActor /Temp/Untitled_2.Untitled_2:PersistentLevel.StaticMeshActor_2
+[2024.05.02-21.49.28:913][776]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.05.02-21.49.37:782][491]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/BlockOut_LevelDesign/3level_mat.3level_mat
+[2024.05.02-21.49.37:787][491]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.02-21.49.37:787][491]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.02-21.49.37:979][491]MaterialEditorStats: Texture samplers: 0/16
+[2024.05.02-21.49.37:979][491]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.05.02-21.49.37:979][491]MaterialEditorStats: Shader Count: 0
+[2024.05.02-21.49.37:993][491]LogViewport: Scene viewport resized to 247x291, mode Windowed.
+[2024.05.02-21.49.38:067][493]MaterialEditorStats: Base pass shader: 220 instructions
+[2024.05.02-21.49.38:067][493]MaterialEditorStats: Base pass vertex shader: 245 instructions
+[2024.05.02-21.49.38:067][493]MaterialEditorStats: Texture samplers: 2/16
+[2024.05.02-21.49.38:067][493]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.05.02-21.49.38:067][493]MaterialEditorStats: Shader Count: 4
+[2024.05.02-21.49.42:801][634]LogAutomationController: Ignoring very large delta of 2.15 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2024.05.02-21.49.44:822][725]MaterialEditorStats: Texture samplers: 0/16
+[2024.05.02-21.49.44:822][725]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.05.02-21.49.44:822][725]MaterialEditorStats: Shader Count: 0
+[2024.05.02-21.49.44:944][727]MaterialEditorStats: Base pass shader: 220 instructions
+[2024.05.02-21.49.44:944][727]MaterialEditorStats: Base pass vertex shader: 245 instructions
+[2024.05.02-21.49.44:944][727]MaterialEditorStats: Texture samplers: 2/16
+[2024.05.02-21.49.44:944][727]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.05.02-21.49.44:944][727]MaterialEditorStats: Shader Count: 4
+[2024.05.02-21.49.48:569][912]MaterialEditorStats: Texture samplers: 0/16
+[2024.05.02-21.49.48:569][912]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.05.02-21.49.48:569][912]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.05.02-21.49.48:569][912]MaterialEditorStats: Shader Count: 0
+[2024.05.02-21.49.48:611][914]MaterialEditorStats: Base pass shader: 227 instructions
+[2024.05.02-21.49.48:611][914]MaterialEditorStats: Base pass vertex shader: 250 instructions
+[2024.05.02-21.49.48:611][914]MaterialEditorStats: Texture samplers: 3/16
+[2024.05.02-21.49.48:611][914]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.05.02-21.49.48:611][914]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.05.02-21.49.48:611][914]MaterialEditorStats: Shader Count: 4
+[2024.05.02-21.49.51:542][ 69]LogViewport: Scene viewport resized to 376x444, mode Windowed.
+[2024.05.02-21.50.01:208][529]MaterialEditorStats: Texture samplers: 0/16
+[2024.05.02-21.50.01:209][529]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.05.02-21.50.01:209][529]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.05.02-21.50.01:209][529]MaterialEditorStats: Shader Count: 0
+[2024.05.02-21.50.02:150][567]MaterialEditorStats: Texture samplers: 3/16
+[2024.05.02-21.50.02:150][567]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.05.02-21.50.02:151][567]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.05.02-21.50.02:151][567]MaterialEditorStats: Shader Count: 1
+[2024.05.02-21.50.02:260][572]MaterialEditorStats: Base pass vertex shader: 287 instructions
+[2024.05.02-21.50.02:261][572]MaterialEditorStats: Texture samplers: 3/16
+[2024.05.02-21.50.02:261][572]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.05.02-21.50.02:261][572]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.05.02-21.50.02:261][572]MaterialEditorStats: Shader Count: 2
+[2024.05.02-21.50.04:808][688]MaterialEditorStats: Texture samplers: 0/16
+[2024.05.02-21.50.04:808][688]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.05.02-21.50.04:808][688]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.05.02-21.50.04:808][688]MaterialEditorStats: Shader Count: 0
+[2024.05.02-21.50.04:876][690]MaterialEditorStats: Base pass vertex shader: 287 instructions
+[2024.05.02-21.50.04:876][690]MaterialEditorStats: Texture samplers: 3/16
+[2024.05.02-21.50.04:876][690]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.05.02-21.50.04:876][690]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.05.02-21.50.04:876][690]MaterialEditorStats: Shader Count: 2
+[2024.05.02-21.50.10:978][  0]LogMaterialEditor: Saving and Compiling material 3level_mat
+[2024.05.02-21.50.11:496][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2024.05.02-21.50.11:715][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2024.05.02-21.50.11:728][  0]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.02-21.50.11:864][  0]LogSavePackage: Moving output files for package: /Game/BlockOut_LevelDesign/3level_mat
+[2024.05.02-21.50.11:864][  0]LogSavePackage: Moving '../../../../../../Users/josej/Documents/Unreal Projects/Project6Platformer/ALD_HemerauxLayOut/Hemeraux/Saved/3level_matE6C067124BDD56951D87518C0925C1CF.tmp' to '../../../../../../Users/josej/Documents/Unreal Projects/Project6Platformer/ALD_HemerauxLayOut/Hemeraux/Content/BlockOut_LevelDesign/3level_mat.uasset'
+[2024.05.02-21.50.11:878][  0]LogFileHelpers: InternalPromptForCheckoutAndSave took 149 ms (total: 5.53 sec)
+[2024.05.02-21.50.11:879][  0]AssetCheck: New page: Asset Save: 3level_mat
+[2024.05.02-21.50.11:879][  0]LogContentValidation: Display: Validating /Script/Engine.Material /Game/BlockOut_LevelDesign/3level_mat.3level_mat
+[2024.05.02-21.50.11:880][  0]MaterialEditorStats: Base pass shader: 201 instructions
+[2024.05.02-21.50.11:880][  0]MaterialEditorStats: Base pass vertex shader: 287 instructions
+[2024.05.02-21.50.11:880][  0]MaterialEditorStats: Texture samplers: 3/16
+[2024.05.02-21.50.11:880][  0]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.05.02-21.50.11:880][  0]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.05.02-21.50.11:880][  0]MaterialEditorStats: Shader Count: 20
+[2024.05.02-21.50.13:488][ 81]LogSlate: Window '3level_mat' being destroyed
+[2024.05.02-21.50.13:501][ 81]LogSlate: Window '3level_mat' being destroyed
+[2024.05.02-21.50.13:514][ 81]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2024.05.02-21.50.13:515][ 81]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.02-21.50.15:414][256]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.05.02-21.50.35:375][849]LogContentBrowser: Attempting asset rename: ThirdArea -> ThirdArea
+[2024.05.02-21.50.51:316][146]LogContentBrowser: Attempting asset rename: ThirdArea -> 3level
+[2024.05.02-21.50.51:474][146]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.02-21.50.51:556][146]LogSavePackage: Moving output files for package: /Game/BlockOut_LevelDesign/3level_mat
+[2024.05.02-21.50.51:556][146]LogSavePackage: Moving '../../../../../../Users/josej/Documents/Unreal Projects/Project6Platformer/ALD_HemerauxLayOut/Hemeraux/Saved/3level_matDDC68B21471AEAC02A4EB79BEF07165D.tmp' to '../../../../../../Users/josej/Documents/Unreal Projects/Project6Platformer/ALD_HemerauxLayOut/Hemeraux/Content/BlockOut_LevelDesign/3level_mat.uasset'
+[2024.05.02-21.50.51:578][146]LogSavePackage: Moving output files for package: /Game/BlockOut_LevelDesign/3level
+[2024.05.02-21.50.51:578][146]LogSavePackage: Moving '../../../../../../Users/josej/Documents/Unreal Projects/Project6Platformer/ALD_HemerauxLayOut/Hemeraux/Saved/3level2C8F20F34D74DDEBFFB361A2766B6FE1.tmp' to '../../../../../../Users/josej/Documents/Unreal Projects/Project6Platformer/ALD_HemerauxLayOut/Hemeraux/Content/BlockOut_LevelDesign/3level.uasset'
+[2024.05.02-21.50.51:591][146]LogFileHelpers: InternalPromptForCheckoutAndSave took 117 ms (total: 5.65 sec)
+[2024.05.02-21.50.51:605][146]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2024.05.02-21.50.51:617][146]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2024.05.02-21.50.51:623][146]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2024.05.02-21.50.51:626][146]AssetCheck: New page: Asset Save: multiple assets
+[2024.05.02-21.50.51:626][146]LogContentValidation: Display: Validating /Script/Engine.Material /Game/BlockOut_LevelDesign/3level_mat.3level_mat
+[2024.05.02-21.50.51:626][146]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/BlockOut_LevelDesign/3level.3level
+[2024.05.02-21.51.01:049][913]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.05.02-21.51.17:873][637]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.05.02-21.51.42:496][909]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2024.05.02-21.51.42:496][909]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2024.05.02-21.51.42:497][909]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Temp/Untitled_2.Untitled_2:PersistentLevel.StaticMeshActor_3
+[2024.05.02-21.51.42:497][909]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Temp/Untitled_2.Untitled_2:PersistentLevel.StaticMeshActor_3
+[2024.05.02-21.51.43:446][987]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2024.05.02-21.51.43:446][987]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2024.05.02-21.51.43:448][987]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Temp/Untitled_2.Untitled_2:PersistentLevel.StaticMeshActor_4
+[2024.05.02-21.51.43:448][987]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Temp/Untitled_2.Untitled_2:PersistentLevel.StaticMeshActor_4
+[2024.05.02-21.56.34:216][626]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2024.05.02-21.56.34:228][626]LogSavePackage: Moving output files for package: /Temp/Autosaves/Temp/Untitled_2_Auto5
+[2024.05.02-21.56.34:228][626]LogSavePackage: Moving '../../../../../../Users/josej/Documents/Unreal Projects/Project6Platformer/ALD_HemerauxLayOut/Hemeraux/Saved/Untitled_2_Auto575AED07E4714DF5353135196E8167A66.tmp' to '../../../../../../Users/josej/Documents/Unreal Projects/Project6Platformer/ALD_HemerauxLayOut/Hemeraux/Saved/Autosaves/Temp/Untitled_2_Auto5.umap'
+[2024.05.02-21.56.34:229][626]LogAssetRegistry: Warning: ScanPathsSynchronous: ../../../../../../Users/josej/Documents/Unreal Projects/Project6Platformer/ALD_HemerauxLayOut/Hemeraux/Saved/Autosaves/Temp/Untitled_2_Auto5.umap is in the /Temp path, will not scan.
+[2024.05.02-21.56.34:229][626]LogAssetRegistry: Warning: ScanPathsSynchronous: /Temp/__ExternalActors__/Autosaves/Temp/Untitled_2_Auto5 is in the /Temp path, will not scan.
+[2024.05.02-21.56.34:229][626]LogAssetRegistry: Warning: ScanPathsSynchronous: /Temp/__ExternalObjects__/Autosaves/Temp/Untitled_2_Auto5 is in the /Temp path, will not scan.
+[2024.05.02-21.56.34:229][626]LogFileHelpers: Editor autosave (incl. external actors) for '/Temp/Untitled_2' took 0.019
+[2024.05.02-21.56.34:229][626]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.019
+[2024.05.02-21.56.34:229][626]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/BlockOut_LevelDesign/_GENERATED/josej/Box_DB8CE315] ([1] browsable assets)...
+[2024.05.02-21.56.34:333][626]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/BlockOut_LevelDesign/_GENERATED/josej/Box_DB8CE315.Box_DB8CE315]
+[2024.05.02-21.56.34:333][626]OBJ SavePackage: Finished generating thumbnails for package [/Game/BlockOut_LevelDesign/_GENERATED/josej/Box_DB8CE315]
+[2024.05.02-21.56.34:335][626]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/BlockOut_LevelDesign/_GENERATED/josej/Box_DB8CE315_Auto5
+[2024.05.02-21.56.34:335][626]LogSavePackage: Moving '../../../../../../Users/josej/Documents/Unreal Projects/Project6Platformer/ALD_HemerauxLayOut/Hemeraux/Saved/Box_DB8CE315_Auto56E147EE6465EC37EA7CA21AA1E67F3C5.tmp' to '../../../../../../Users/josej/Documents/Unreal Projects/Project6Platformer/ALD_HemerauxLayOut/Hemeraux/Saved/Autosaves/Game/BlockOut_LevelDesign/_GENERATED/josej/Box_DB8CE315_Auto5.uasset'
+[2024.05.02-21.56.34:335][626]LogFileHelpers: Auto-saving content packages took 0.107
+[2024.05.02-22.05.48:914][ 88]LogSlate: Window 'Save Level As' being destroyed
+[2024.05.02-22.05.55:194][166]LogSlate: Window 'Save Level As' being destroyed
+[2024.05.02-22.05.55:315][166]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2024.05.02-22.05.55:326][166]LogSavePackage: Moving output files for package: /Game/BlockOut_LevelDesign/Blockout_3
+[2024.05.02-22.05.55:326][166]LogSavePackage: Moving '../../../../../../Users/josej/Documents/Unreal Projects/Project6Platformer/ALD_HemerauxLayOut/Hemeraux/Saved/Blockout_39D67609B4D8A3EFA6F1443839537CFDC.tmp' to '../../../../../../Users/josej/Documents/Unreal Projects/Project6Platformer/ALD_HemerauxLayOut/Hemeraux/Content/BlockOut_LevelDesign/Blockout_3.umap'
+[2024.05.02-22.05.55:374][166]LogFileHelpers: Saving map 'Blockout_3' took 0.171
+[2024.05.02-22.05.55:374][166]LightingResults: New page: Lighting Build
+[2024.05.02-22.05.55:374][166]LoadErrors: New page: Loading map: Blockout_3.umap
+[2024.05.02-22.05.55:436][166]LogWorld: UWorld::CleanupWorld for Blockout_3, bSessionEnded=true, bCleanupResources=true
+[2024.05.02-22.05.55:437][166]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.02-22.05.55:437][166]MapCheck: New page: Map Check
+[2024.05.02-22.05.55:437][166]LightingResults: New page: Lighting Build
+[2024.05.02-22.05.55:444][166]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.05.02-22.05.55:446][166]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2024.05.02-22.05.55:451][166]LogAudio: Display: Audio Device (ID: 1) registered with world 'Blockout_3'.
+[2024.05.02-22.05.55:451][166]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.02-22.05.55:451][166]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.02-22.05.55:452][166]LogAIModule: Creating AISystem for world Blockout_3
+[2024.05.02-22.05.55:510][166]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.05.02-22.05.55:517][166]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2024.05.02-22.05.55:522][166]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.05.02-22.05.55:522][166]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.152ms to complete.
+[2024.05.02-22.05.55:522][166]LogAssetRegistry: Warning: C:/Users/josej/Documents/Unreal Projects/Project6Platformer/ALD_HemerauxLayOut/Hemeraux/Content/BlockOut_LevelDesign/Blockout_3.umap: package was marked as deleted in editor, but has been modified on disk. It will once again be returned from AssetRegistry queries.
+[2024.05.02-22.05.55:522][166]AssetCheck: New page: Asset Save: Blockout_3
+[2024.05.02-22.05.55:522][166]LogContentValidation: Display: Validating /Script/Engine.World /Game/BlockOut_LevelDesign/Blockout_3.Blockout_3
+[2024.05.02-22.05.55:575][167]LogAutomationController: Ignoring very large delta of 5.87 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
